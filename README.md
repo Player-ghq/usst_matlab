@@ -2,8 +2,8 @@
 usst_matlab_homework
 上海理工大学matlab作业
 - 智能仿真
-  1. 多项式曲线拟合 census.mat (curve fitting tool 的应用)
-  2. 高尔夫手推车销售  简单的生产-消费者模型
+  1. 多项式曲线拟合 census.mat (CurveFittingTool 的应用--最基础的曲线拟合)
+  2. 高尔夫手推车销售  (AppDesigner的应用--简单的生产-消费者模型)
   3. 待定
 
 - 自动控制原理
